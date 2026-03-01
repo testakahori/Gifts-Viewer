@@ -19,6 +19,7 @@ git clone https://github.com/your-username/GiftsViewer.git
 
 2. 依存パッケージをインストール
 npm install
+npm install tiktok-live-connector
 
 3. 開発モードでアプリを起動
 npm run electron:dev
